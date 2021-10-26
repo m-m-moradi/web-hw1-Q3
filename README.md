@@ -1,6 +1,6 @@
 ## Part 1
 ```bash
-$ git commit --amend -m "New commit message"
+$ git commit --amend -m "amend FileA.txt"
 ```
 
 ## Part 2
